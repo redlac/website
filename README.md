@@ -1,4 +1,4 @@
-My new website.
+My new website. Check out my portfolio and blog.
 
 Built with:
 - Next.js
